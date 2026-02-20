@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - SmokeStop</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #000; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; }
+        h3 { color: #555; margin-top: 20px; }
+        .date { color: #666; font-style: italic; }
+        .warning { background-color: #fff3cd; border: 1px solid #ffeaa7; padding: 10px 15px; border-radius: 5px; margin: 15px 0; }
+        .legal { font-size: 0.9em; color: #666; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; }
+    </style>
+</head>
+<body>
+    <h1>PRIVACY POLICY FOR THE APP “SMOKESTOP”</h1>
+    <p class="date">Last updated: February 20, 2026</p>
+
+    <h2>1. Controller</h2>
+    <p>The controller responsible for the processing of personal data within the meaning of the General Data Protection Regulation (GDPR) is:</p>
+    <p><strong>Leo Lober</strong><br>
+    Suevenstr. 9, 50679 Cologne<br>
+    Germany<br>
+    Email: leo47733@icloud.com</p>
+
+    <h2>2. General Information on Data Protection</h2>
+    <p>Protecting your personal data is very important to us. We process personal data exclusively within the framework of the statutory provisions, in particular the GDPR.</p>
+
+    <h2>3. Purpose of the App and Medical Disclaimer</h2>
+    <p>The app “SmokeStop” is designed to support you in reducing or quitting smoking. It offers features for self‑observation, motivation and behavioural support.</p>
+    <div class="warning">
+        <p><strong>⚠️ Important Notice:</strong></p>
+        <p>This app is intended solely for <strong>general lifestyle purposes, motivation and self‑management</strong>. It does <strong>not</strong> constitute medical treatment, diagnosis, therapy or health advice. If you have health concerns, please consult a doctor.</p>
+    </div>
+
+    <h2>4. Legal Bases for Processing</h2>
+    <p>Your personal data is processed on the following legal bases:</p>
+    <ul>
+        <li><strong>Art. 6 (1) lit. b GDPR (performance of a contract):</strong> Provision of the app functions.</li>
+        <li><strong>Art. 6 (1) lit. a GDPR (consent):</strong> For analytics services (see section 7).</li>
+        <li><strong>Art. 6 (1) lit. f GDPR (legitimate interest):</strong> Ensuring the security and stability of the app (fraud prevention, error analysis, log files).</li>
+    </ul>
+
+    <h2>5. Processed Data</h2>
+    <h3>a) Account Data</h3>
+    <ul>
+        <li>Email address</li>
+        <li>Display name / nickname</li>
+        <li>User ID</li>
+    </ul>
+    
+    <h3>b) Usage and Progress Data</h3>
+    <ul>
+        <li>Quit start date</li>
+        <li>Number of cigarettes smoked or avoided</li>
+        <li>Progress values (streaks, level)</li>
+        <li>Calculated statistics (e.g. money saved)</li>
+    </ul>
+    
+    <h3>c) Community Data (optional)</h3>
+    <ul>
+        <li>Published posts and comments</li>
+        <li>Likes and bookmarks</li>
+        <li>Report and block actions (which user reported/blocked what)</li>
+        <li>Timestamps and user assignment</li>
+    </ul>
+    <p><strong>To ensure a respectful and safe environment in our community, we offer the following functions: users can report posts and comments via an integrated “Report” button. Reported content will be reviewed promptly and removed if it violates our community guidelines. Users can also block other users to prevent further interaction. For any questions or complaints regarding community content, you can always contact us at leo47733@icloud.com.</strong></p>
+    
+    <h3>d) Local App Data (device only)</h3>
+    <ul>
+        <li>Vision board images and texts</li>
+    </ul>
+    <div class="warning">
+        <p>⚠️ Vision board content is stored exclusively locally on your device and is <strong>not</strong> uploaded to our servers or processed in the cloud.</p>
+    </div>
+    
+    <h3>e) Technical Data</h3>
+    <ul>
+        <li>IP address</li>
+        <li>Device type and operating system</li>
+        <li>App version</li>
+        <li>Time of use</li>
+    </ul>
+
+    <h2>6. Logging by Firebase Services</h2>
+    <p>We use Google Firebase as a technical platform. In the course of operating these services, the provider Google Ireland Limited automatically collects and stores technical log data (so‑called log files) relating to accesses and events.</p>
+    <p>This includes in particular:
+        <ul>
+            <li>App usage events (via Firebase Analytics)</li>
+            <li>Technical information about app crashes (via Firebase Crashlytics)</li>
+            <li>Performance data such as load times (via Firebase Performance Monitoring)</li>
+            <li>Meta‑information about API calls (e.g. time, type of request to Firestore or Authentication)</li>
+        </ul>
+    </p>
+    <p>Processing by us is based on our legitimate interest (Art. 6 (1) lit. f GDPR) in ensuring stable, secure and improvable operation of our app.</p>
+    <p><strong>The log data is stored by Google as our processor under Art. 28 GDPR. The storage period depends on the standard retention periods of the respective Firebase services. For example, Crashlytics data is usually retained for 90 days, and Performance data for 60 days. The log data is not merged by Google with your other user data (such as your progress).</strong></p>
+    
+    <h2>7. Analytics (Firebase Analytics)</h2>
+    <p>The app uses Firebase Analytics from Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland, to collect anonymised usage statistics (e.g. feature calls, session duration).</p>
+    <p>When you first use the app, you will be informed about this analytics function and can give your consent. Processing only takes place on the basis of your consent under Art. 6 (1) lit. a GDPR. You can withdraw your consent at any time with effect for the future in the app settings.</p>
+    <p>The collected data cannot be directly attributed to a specific person and is not merged with other data sources.</p>
+
+    <h2>8. Use of Processors</h2>
+    <p>For technical provision we use:</p>
+    <ul>
+        <li><strong>Google Firebase:</strong> For hosting, database and analytics (provider: Google Ireland Limited).</li>
+        <li><strong>RevenueCat:</strong> For managing in‑app purchases and subscriptions (provider: RevenueCat, Inc., USA).</li>
+    </ul>
+    <p>Processing is based on data processing agreements in accordance with Art. 28 GDPR.</p>
+
+    <h2>9. Data Transfers to Third Countries</h2>
+    <p><strong>Through the use of our processors, data may be processed outside the EU/EEA.</strong></p>
+    <ul>
+        <li><strong>Google Firebase (Google Ireland Limited):</strong> For data transfers to the USA, Google has joined the <strong>EU‑US Data Privacy Framework (DPF)</strong>. The European Commission has issued an adequacy decision for the USA under the DPF, ensuring an adequate level of data protection.</li>
+        <li><strong>RevenueCat (RevenueCat, Inc., USA):</strong> Data transfer to the USA is based on <strong>Standard Contractual Clauses of the European Commission (SCCs)</strong>, which provide appropriate safeguards for data protection.</li>
+    </ul>
+
+    <h2>10. Your Rights</h2>
+    <p>You have the following rights towards the controller regarding your personal data:</p>
+    <ul>
+        <li>Right of access under Art. 15 GDPR</li>
+        <li>Right to rectification under Art. 16 GDPR</li>
+        <li>Right to erasure under Art. 17 GDPR</li>
+        <li>Right to restriction of processing under Art. 18 GDPR</li>
+        <li>Right to data portability under Art. 20 GDPR</li>
+        <li>Right to withdraw consent under Art. 7 (3) GDPR</li>
+        <li>Right to object to processing under Art. 21 GDPR</li>
+        <li>Right to lodge a complaint with a supervisory authority under Art. 77 GDPR</li>
+    </ul>
+    <p>Contact us to exercise your rights: leo47733@icloud.com</p>
+    <p><strong>How to exercise your rights: You can delete your user account and all associated personal data directly in the app under <strong>Profile</strong> > <strong>Settings</strong> > <strong>Delete Account</strong>. For any other requests (e.g. access, rectification or data portability), please contact us by email at leo47733@icloud.com. We will process your request without undue delay, and at the latest within one month.</strong></p>
+
+    <h2>11. Storage Duration</h2>
+    <p>Your personal data is stored only as long as necessary for the purpose of processing or as required by statutory retention periods (e.g. tax law).</p>
+    <p>Account data and usage data are stored until you delete your account. After account deletion, the data will be erased within 30 days, unless statutory retention obligations prevent erasure.</p>
+
+    <h2>12. Changes to this Privacy Policy</h2>
+    <p>We reserve the right to adapt this privacy policy to reflect changes in the legal situation or in the service. The current version is always available at this URL.</p>
+</body>
+</html>
