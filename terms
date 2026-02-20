@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use - SmokeStop</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #000; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; }
+        .date { color: #666; font-style: italic; }
+        .warning { background-color: #fff3cd; border: 1px solid #ffeaa7; padding: 10px 15px; border-radius: 5px; margin: 15px 0; }
+        .new { background-color: #e7f4ff; border-left: 4px solid #2196F3; padding: 10px 15px; margin: 15px 0; }
+    </style>
+</head>
+<body>
+    <h1>TERMS OF USE FOR THE APP “SMOKESTOP”</h1>
+    <p class="date">Last updated: February 20, 2026</p>
+
+    <h2>1. Provider and Scope</h2>
+    <p>These terms of use apply to the mobile app “SmokeStop”, operated by:</p>
+    <p><strong>Leo Lober</strong><br>Email: leo47733@icloud.com</p>
+    <p>By using the app, you agree to these terms.</p>
+
+    <h2>2. Purpose of the App and Medical Disclaimer</h2>
+    <p>The app provides digital tools to support smoking cessation, in particular progress and statistics features, motivational aids (vision board) and community features for exchange.</p>
+    <div class="warning">
+        <p><strong>⚠️ Important Notice:</strong></p>
+        <p>This app is intended solely for <strong>general lifestyle purposes, motivation and self‑management</strong>. It does <strong>not</strong> constitute medical treatment, diagnosis, therapy or health advice. If you have health concerns, please consult a doctor.</p>
+    </div>
+
+    <h2>3. Conditions of Use</h2>
+    <ul>
+        <li>Use is permitted only for persons aged 18 or older.</li>
+        <li>Registration with your email address is required to use the app.</li>
+        <li>Only one user account per person is allowed. Pseudonyms are permitted.</li>
+        <li>Use is allowed only for private, non‑commercial purposes.</li>
+        <li>You are responsible for all activities under your account.</li>
+    </ul>
+
+    <h2>4. In‑App Purchases and Subscriptions</h2>
+    <p>The app may contain paid subscriptions. Purchase and billing are handled exclusively through the <strong>Apple App Store</strong>. <strong>The terms and conditions of the Apple App Store additionally apply.</strong></p>
+    <div class="new">
+        <p><strong>Important:</strong> Deleting your user account in the app does <strong>not automatically</strong> terminate an active paid subscription. You must cancel the subscription separately through your Apple account settings.</p>
+    </div>
+    <p>The subscription renews automatically unless auto‑renewal is turned off at least 24 hours before the end of the current billing period in your Apple account settings.</p>
+
+    <h2>5. Community Features, Moderation and Your Obligations</h2>
+    <p>The app offers community features. To ensure a safe space for everyone, the following rules and tools apply:</p>
+    <h3>A. Prohibited Content and Behaviour</h3>
+    <p><strong>Strictly forbidden are:</strong></p>
+    <ul>
+        <li>Insulting, hateful, discriminatory or otherwise unlawful content.</li>
+        <li>Harassment, bullying or threats against other users.</li>
+        <li>Advertising, spam or commercial offers.</li>
+        <li>Giving medical advice or spreading harmful health misinformation.</li>
+    </ul>
+    <div class="new">
+        <p><strong>Also expressly forbidden are:</strong> pornographic or sexually explicit content, depictions of violence, calls to commit criminal acts, and content that infringes third‑party copyrights, trademark rights or personality rights.</p>
+    </div>
+    <h3>B. Safety Features Required by Apple</h3>
+    <p>The app provides the following tools to protect users:</p>
+    <ul>
+        <li><strong>Report function:</strong> You can report any post or user via an integrated function.</li>
+        <li><strong>Block function:</strong> You can block other users to prevent further interactions.</li>
+        <li><strong>Contact:</strong> You can contact us directly at <strong>leo47733@icloud.com</strong> to report violations.</li>
+    </ul>
+    <h3>C. Our Moderation and Measures</h3>
+    <p>We reserve the right to review reported content and, in case of violations of these rules, to remove content without prior warning or to temporarily or permanently suspend user accounts. Complete prior review of all content is technically not possible.</p>
+    <div class="new">
+        <p>Repeated or serious violations may lead to permanent suspension of the user account.</p>
+    </div>
+
+    <div class="new">
+        <h2>6. Rights to User Content</h2>
+        <p>You retain all rights to the content you create in the community (e.g. posts, comments). By publishing, you grant us the simple, royalty‑free right to store, reproduce and make publicly available this content for the purpose of operating, displaying and further developing the app.</p>
+        <p>You warrant that you have all necessary rights to the content you post and that it does not infringe any third‑party rights.</p>
+    </div>
+
+    <h2>7. Limitation of Liability</h2>
+    <div class="new">
+        <p>We are fully liable for damages caused by our intentional or grossly negligent conduct, or that of our legal representatives or agents. The same applies to damages resulting from injury to life, body or health.</p>
+        <p>In case of slight negligence, we are liable only for breach of a material contractual obligation (cardinal duty) – i.e. an obligation whose fulfilment is essential for the proper performance of the contract and on whose compliance you may regularly rely. In such cases, liability is limited to the foreseeable, contract‑typical damage that was foreseeable at the time the contract was entered into.</p>
+        <p>The above limitations of liability do not apply where we have assumed a guarantee or where claims under the Product Liability Act are affected.</p>
+    </div>
+    <p>We assume no responsibility for content published by other users, unless we have specific knowledge of its unlawfulness and fail to act promptly upon gaining such knowledge.</p>
+
+    <h2>8. Data Protection</h2>
+    <p>The processing of your data is carried out in accordance with our separate <a href="privacy.html">Privacy Policy</a>, which forms part of these terms of use.</p>
+
+    <div class="new">
+        <h2>9. Termination and Account Deletion</h2>
+        <p>You can delete your user account at any time in the app settings. Deleting your account does not terminate a running subscription. We reserve the right to suspend or delete user accounts in case of serious or repeated violations of these terms, after prior warning, or in especially severe cases without warning.</p>
+        <p>Statutory retention obligations remain unaffected by account deletion.</p>
+    </div>
+
+    <h2>10. Final Provisions</h2>
+    <p>German law applies exclusively, excluding the UN Convention on Contracts for the International Sale of Goods. For consumers within the meaning of § 13 BGB, the mandatory law of their country of habitual residence applies if it is more favourable than German law.</p>
+    <div class="new">
+        <p>Should any provision of these terms be or become wholly or partially invalid, the validity of the remaining provisions shall not be affected. The invalid provision shall be replaced by the legally permissible regulation that comes closest to the economic purpose of the invalid provision.</p>
+    </div>
+    <p>We reserve the right to amend these terms of use. We will inform you appropriately about material changes (e.g. by email or within the app). Continued use of the app after the changes take effect constitutes acceptance of the amended terms. The current version is always available at this URL.</p>
+    <p><strong>Contact:</strong> Leo Lober, leo47733@icloud.com</p>
+</body>
+</html>
